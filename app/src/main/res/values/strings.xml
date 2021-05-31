@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UserSearch</string>
+
+    <string name="title">Github User Search</string>
+    <string name="username">username</string>
+    search here ...
+
+    <string name="query_hint">search here ...</string>
+
+    <string name="network_not_available">Tidak ada koneksi internet</string>
+    <string name="network_available">Terhubung ke internet</string>
+    <string name="no_internet">%1$s Tarik kebawah untuk mencoba lagi</string>
+
+    <string name="generic_error">Something went wrong.</string>
+    <string name="no_results">Tidak ada data ditemukan</string>
+
+</resources>

@@ -1,0 +1,4 @@
+rootProject.name = "UserSearch"
+include ':app'
+include ':data'
+include ':domain'
